@@ -3,13 +3,11 @@
 --lab-panel-color:#111111;
 --lab-panel-outline-color:#00CC6633;
 --lab-primary-phosphor:#00CC66;
-/* pointer tail */
 --phosphor-pointer-color:#00CC66; 
 --phosphor-pointer-radius:3;
 --phosphor-pointer-intensity:1;
 --phosphor-pointer-duration-in:.5s;
 --phosphor-pointer-duration-out:1.5s;
-/* emotion */
 --effect-typography-duration:2.7s;
 --effect-explosion-duration:4s
 }
@@ -82,6 +80,15 @@ touch-action:none
 }
 
 /* ─── sector A ─── */
+/* 👀 will-change */
+.lab-phosphor {
+will-change: background-color;
+}
+.motoko {
+will-change: transform, opacity;
+cursor: url('/assets/svgs/lab-verified-authentic.svg') 2 20, help;
+}
+
 #lab-neonPanel{
 position:fixed;
 top:0;
@@ -95,16 +102,6 @@ z-index:1;
 gap:0
 }
 
-/* 👀will-change 多すぎ注意 👀 */
-.lab-phosphor {
-will-change: background-color; /* パネル光アニメーション */
-}
-.motoko {
-will-change: transform, opacity; /* ホバーでアニメーション */
-cursor: url('/assets/svgs/lab-verified-authentic.svg') 2 20, help;
-}
-/* 👀will-change 多すぎ注意 👀 */
-
 .lab-phosphor{
 width:var(--lab-panel-size);
 height:var(--lab-panel-size);
@@ -112,7 +109,6 @@ background-color:transparent;
 border:.25px solid var(--lab-panel-outline-color)
 }
 
-/* ─── sector A(α) ─── */
 #lab-effect{
 position:relative;
 text-align:center;
@@ -135,6 +131,7 @@ z-index:30
 100%{opacity:0;transform:translate(-50%,-50%)scale(125)}
 }
 
+/* ─── sector B ─── */
 #lab-logo{
 position:absolute;
 padding-top:20px;
@@ -189,7 +186,7 @@ margin-top:3em;
 opacity:.7
 }
 
-/* ─── sector B ─── */
+/* ─── sector C ─── */
 #lab-capsuleToy{
 position:relative;
 text-align:center;
@@ -200,7 +197,7 @@ z-index:30
 
 #capsule-drop-wrapper{
 position:absolute;
-width:clamp(35%,45%,45%);
+width:45%;
 top:45%;
 left:50%;
 margin:0;
@@ -228,7 +225,7 @@ animation:babble 3s infinite ease-out 3s backwards
 100%{transform:translateY(-0.8em)scale(1.2);opacity:0}
 }
 
-/* ─── drops layout ─── */
+/* ─── drops ─── */
 #drop-items{
 display:grid;
 margin-top:0.5rem;
@@ -263,7 +260,6 @@ grid-column: 1 / 2;
 border:1px dotted #ccc;
 grid-column: 2 / 3;
 }
-/* ─── ─── */
 
 .item-name>i{
 position:relative;
@@ -308,7 +304,7 @@ border:1px dotted hotpink;
 color: #FF69B4CC
 }
 
-.motocat .motoko{
+.motoko{
 position:absolute;
 display:none;
 width:40px;
@@ -330,16 +326,15 @@ animation:pop-in 0.4s ease forwards;
 to{transform:translate(5px,-100%)scale(1);opacity:0.9}
 }
 
-/* ─── liquid ─── */
+/* ─── tablet mobile ─── */
 #lab-logo>em{display:none}
 #capsule-drop{display:block}
 
-#lab-logo h1 > span,
-#lab-status,
-#capsule-drop-wrapper {
-transition: opacity 0.4s ease-out,color 0.4s ease-out;
+#lab-logo h1 > span, #lab-status, #capsule-drop-wrapper {
+transition: opacity 0.4s ease-out,color 0.5s ease-out;
 }
 
+/* small */
 #lab-logo>em{
 position:absolute;
 top:70%;
@@ -361,17 +356,19 @@ z-index:50
 100%{transform:translate(-50%,0)rotate(90deg)scale(1.0);opacity:.4}
 }
 
-/* ─── tablet mobile ─── */
-@media only screen and (min-height:743px)and (orientation:landscape)and (pointer:coarse)and (hover:none){
-#lab-logo>em{display:none}
-#capsule-drop-wrapper{display:block}
-}
-/* ↑ 743px ↓ */
+/* medium - ipad mini size */
 @media only screen and (max-height:743px)and (orientation:landscape)and (pointer:coarse)and (hover:none){
 #lab-logo>em{display:block}
 #capsule-drop-wrapper{display:none}
 }
 
+/* large */
+@media only screen and (min-height:743px)and (orientation:landscape)and (pointer:coarse)and (hover:none){
+#lab-logo>em{display:none}
+#capsule-drop-wrapper{display:block}
+}
+
+/* et cetera */
 @media screen and (max-height: 400px){
 #lab-logo{padding-top:50px;}
 }
@@ -381,14 +378,14 @@ z-index:50
 #lab-signature>span::after{bottom:0.25em}
 }
 
-/* ─── sector C ─── */
+/* ─── sector D ─── */
 #lab-signature{
 position:fixed;
 bottom:max(env(safe-area-inset-bottom,0.5rem),0.5rem);
 left:50%;
 transform:translate(-50%,0);
 font-family:Fredoka v16-600,cursive;
-font-size:clamp(.7rem,2vw,0.75rem);
+font-size:clamp(.7rem, 2vw, .75rem);
 color:#fff;
 white-space:nowrap;
 z-index:55
@@ -408,7 +405,7 @@ margin-right:.25em
 }
 
 #lab-signature>span::after{
-content:"in oooawe lab.";
+content:"in oooawe lab";
 position:absolute;
 left:100%;
 margin-left:.25em
