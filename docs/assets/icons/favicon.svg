@@ -1,0 +1,10 @@
+<svg id="oooaweLabfavicon" data-name="oooaweLabfavicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+<defs>
+<linearGradient id="favGradi" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#0F6" />
+<stop offset="100%" stop-color="#0A6" />
+</linearGradient>
+</defs>
+<path fill="none" d="M0,0 h500 v500 H0 Z" />
+<path fill="url(#favGradi)" fill-rule="evenodd" stroke="#ccc" stroke-width="10" stroke-opacity="0.5" d="M250,30 A220,220 0 1,0 250.1,30 Z M250,175 A75,75 0 1,0 250.1,175 Z" />
+</svg>
