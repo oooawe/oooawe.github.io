@@ -1,21 +1,11 @@
-🧪🫧 oooawe Laboratory
-![oooawe Laboratory](docs/assets/bits/og-image.png)
-
-
-=
-
-
-👻 MotokoGhosts:RunCat'Self-made Runner' Edition 👻
-
-
-
-
+<p align="center">
+<img src="docs/assets/bits/og-image.png" alt="oooawe Lab gal power pic!" width="65%" height="auto" />
+<br><br>
+👻 <strong>Motoko Ghosts : RunCat <em>Self-made Runner</em> Edition</strong> 👻<br>
+<br><br>
 License
+</p>
 
-
-
-
-===== English =====
 
 This is a non-commercial fan project inspired by the Motoko Ghosts NFT collection on the Internet Computer Protocol (ICP) ecosystem.
 
@@ -31,30 +21,34 @@ All trademarks and copyrights related to "Motoko Ghosts" and "RunCat" are the pr
 
 If the original rights holders request removal or modification, this file and related assets will be promptly taken down.
 
-=====
+<p align="center">
+<br><br>
+💫
+<br><br>
+</p>
 
-─ URLs
 Dfinity: https://dfinity.org  
 Internet Computer: https://internetcomputer.org  
 Motoko: https://linktr.ee/motoko0_0  
 RunCat: https://kyome.io/runcat/?lang=en  
 Motoko Ghosts NFTs: https://toniq.io/marketplace/motoko  
-
-- Made with 💚 for fun and fandom.  
-  https://oooawe.github.io/  
-  https://github.com/oooawe/oooawe.github.io  
-  (Latest version - Open source 🙏)
-
-─ ☕️  
+  
+   
+☕️
+  
+  
 𝕏: @ooooooawe  
 ICP: Principal ID: oojxl-wdd7w-zzkkj-caxxj-oxoak-ytpbz-zbtcb-k4zg7-kfoiq-5ptb7-eqe  
 ICP: bbb478d8231770458933159e41aa741ac65ba66f05350217c2abc6637e6a775f  
-Email: ooo@oooawe.jp
+Made with 💚 for fun and fandom.  
+<br><br>
+<hr>
+<p align="center">
+<br><br>
+===== 日本語版 =====
+<br><br>
+</p>
 
-
-
-
-===== 日本語 =====
 
 本プロジェクトは、Internet Computer Protocol（ICP）上のNFTコレクション「Motoko Ghosts」をモチーフとした、非公式・非営利のファンプロジェクトです。
 
@@ -69,24 +63,26 @@ Email: ooo@oooawe.jp
 
 なお、権利者からの要請があった場合は、本ファイルおよび関連アセットは速やかに削除・公開停止いたします。
 
-=====
+<p align="center">
+<br><br>
+💫
+<br><br>
+</p>
 
-─ URLs
 Dfinity: https://dfinity.org  
 Internet Computer: https://internetcomputer.org  
 Motoko: https://linktr.ee/motoko0_0  
 RunCat: https://kyome.io/runcat/?lang=ja  
 Motoko Ghosts NFTs: https://toniq.io/marketplace/motoko  
+  
+    
+☕️
 
-- Made with 💚 for fun and fandom.  
-  https://oooawe.github.io/  
-  https://github.com/oooawe/oooawe.github.io  
-  （最新バージョン - 内容確認など🙏）
 
-─ ☕️  
+    
 𝕏: @ooooooawe  
 ICP: Principal ID: oojxl-wdd7w-zzkkj-caxxj-oxoak-ytpbz-zbtcb-k4zg7-kfoiq-5ptb7-eqe  
 ICP: bbb478d8231770458933159e41aa741ac65ba66f05350217c2abc6637e6a775f  
-Email: ooo@oooawe.jp
-
-
+Made with 💚 for fun and fandom.  
+<br><br>
+<hr>
