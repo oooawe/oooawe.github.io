@@ -45,23 +45,27 @@ Made with 💚 for fun and fandom.
 <hr>
 <p align="center">
 <br><br>
-===== 日本語版 =====
+=== Japanese version ===
 <br><br>
 </p>
+<p align="center">
+<br><br>
+👻 <strong>Motoko Ghosts : RunCat<em>自作ランナー</em> Edition</strong> 👻<br>
+<br><br>
+License
+</p>
 
+Internet Computer Protocol（ICP）上のNFTコレクション「Motoko Ghosts」をモチーフとした、非公式・非営利のファンプロジェクトです。
 
-本プロジェクトは、Internet Computer Protocol（ICP）上のNFTコレクション「Motoko Ghosts」をモチーフとした、非公式・非営利のファンプロジェクトです。
+元となるアートワークおよび知的財産権は「Motoko Ghosts」およびDfinity財団に帰属します。  
+本プロジェクトはこれらの関係者とは一切の提携・承認関係にありません。
 
-元となるアートワークおよび知的財産権は「Motoko Ghosts」の制作者およびDfinity財団に帰属します。  
-本プロジェクトは、これらの関係者とは一切の提携・承認関係にありません。
-
-本ファイルの利用は、以下の用途に限定されます：
+本サイトのファイルは以下の用途を想定しています：
 - RunCat自作ランナーとしての利用
 - 個人的かつ非商用利用
 
 「Motoko Ghosts」および「RunCat」に関する商標や著作権は、各権利者に帰属します。
-
-なお、権利者からの要請があった場合は、本ファイルおよび関連アセットは速やかに削除・公開停止いたします。
+※ 権利者からの要請があった場合は、本ファイルおよび関連アセットは速やかに削除・公開停止いたします。
 
 <p align="center">
 <br><br>
@@ -77,7 +81,6 @@ Motoko Ghosts NFTs: https://toniq.io/marketplace/motoko
   
     
 ☕️
-
 
     
 𝕏: @ooooooawe  
