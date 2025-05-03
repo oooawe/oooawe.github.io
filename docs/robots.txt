@@ -1,0 +1,5 @@
+# robots.txt
+# 🙅‍♀️ 検索エンジンの皆様へ：Laboratory なのでリストしたらだめだよ 💔
+
+User-agent: *
+Disallow: /
