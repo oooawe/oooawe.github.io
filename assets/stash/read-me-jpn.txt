@@ -1,0 +1,68 @@
+
+➡️ "Motoko Ghosts for RunCat 自作ランナー" とは？  
+
+	ICP（Internet Computer Protocol）  
+	「Motoko Ghosts」にリスペクトを込めて生まれた  
+	非公式のファンプロジェクトです  
+
+
+
+➡️ 動作環境など（Motoko Ghost が CPU監視員に？！）  
+
+	人気アプリ「RunCat」の自作ランナー機能を使わせていただいてます  
+	- 有料機能ですが、1度購入すればずっと使える安心スタイル！  
+	- RunCat公式サイト: https://kyome.io/runcat/  
+
+
+
+➡️ 著作権・クレジットなど
+
+	Motoko Ghostsのアートワークは各NFTホルダーが所有しています  
+	著作権はオリジナルアーティストおよびその関係者に帰属します  
+	詳細は同梱の「license.txt」をご確認ください  
+
+
+
+➡️ Special Thanks：
+	
+	素敵な世界観をありがとうございます  
+	💚 Motoko Ghosts  
+	💚 Dfinity Foundation  
+	💚 Poked Studio  
+	 
+	カスタマイズも楽しい神アプリをありがとうございます  
+	💚 RunCat  
+
+
+
+➡️ 今後の展望  
+
+	模索中（外部支援が必要）  
+	- Webアプリ - 所有のMotoko Ghostsアートワークを自動変換  
+		↪︎ やっぱり自分のMotoko Ghostを表示させたいよね  
+		↪︎ ICP上に展開したい  
+		↪︎ SVGから指定サイズのPNG（24-bit）への変換  
+		↪︎ Internet Identity や Wallet 認証など  
+		
+	進行中（in oooawe Laboratory）  
+	- Laboratory Menu Barアプリ（codename: Floatie）  
+		↪︎ Coming Soon ...?  
+		↪︎（ Don't ask me "Wen", soon is soon... ）
+
+
+
+➡️ プロジェクト主体  
+
+	OOOAWE LABORATORY （ooo@oooawe.jp）  
+		↪︎ Laboratory本体 : https://oooawe.jp  
+		↪︎ プロジェクト公式サイト : https://oooawe.github.io  
+		↪︎（ GitHub Pages Open Source で進行中..."soon" ）  
+			↪︎（ よければ助言やアドバイスお願いいたします ）  
+
+
+
+➡️ ☕️  
+
+	ICP: bbb478d8231770458933159e41aa741ac65ba66f05350217c2abc6637e6a775f
+
+

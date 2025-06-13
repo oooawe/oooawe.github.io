@@ -1,0 +1,67 @@
+
+➡️ What is "Motoko Ghosts for RunCat" ?  
+
+	This is an unofficial fan project,  
+	created with pure love and heartfelt respect for “Motoko Ghosts”  
+	— a beloved NFT collection on the Internet Computer Protocol (ICP).  
+
+
+
+➡️ Compatibility & Features (Motoko Ghosts as your CPU monitor!?)  
+
+	This project uses the custom runner feature of the popular app "RunCat".  
+	- It's a paid feature, but a one-time purchase — stress-free!  
+	- Visit: https://kyome.io/runcat/?lang=en  
+
+
+
+➡️ Copyright & Credits
+
+	The artwork of each Motoko Ghost is owned by its respective holder.  
+	All copyrights remain with the original artists and associated parties.  
+	For more details, please see the included “license.txt”.
+
+
+
+➡️ Special Thanks  
+
+	Thank you for the incredible world brought to life:  
+	💚. Motoko Ghosts  
+	💚. DFINITY Foundation  
+	💚. Poked Studio  
+
+	And of course, thank you for the lovely feature  
+	that lets us show our own artwork in the menu bar:  
+	💚. RunCat app  
+
+
+➡️ Future Plans  
+
+	In Exploration (external support needed)  
+	- A web app to convert your Motoko Ghosts NFTs into custom runners  
+		↪︎ To be deployed on ICP  
+		↪︎ Converts SVG into PNG (24-bit) at specified size  
+		↪︎ Ownership verification via wallet connection  
+		↪︎ Customizable behavior in the menu bar  
+
+	In Progress (under development at oooawe Laboratory)  
+	- Laboratory Original Menu Bar App (codename: Floatie)  
+		↪︎ Coming soon...?  
+		↪︎ (Yeah, I know… no one trusts “soon” in Web3.)  
+
+
+
+➡️ Project Lead
+
+	OOOAWE LABORATORY （ooo@oooawe.jp）  
+		↪︎ Project host: https://oooawe.jp  
+		↪︎ Official project page: https://oooawe.github.io  
+			↪︎ GitHub-hosted  
+
+
+
+➡️ ☕️  
+
+	ICP: bbb478d8231770458933159e41aa741ac65ba66f05350217c2abc6637e6a775f
+
+

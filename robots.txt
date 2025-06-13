@@ -1,0 +1,6 @@
+# robots.txt
+# 🙅‍♀️ Attention search engines: This is a laboratory, so do not list the lab. It's a secret 💔
+# 🙅‍♀️ 検索エンジンの皆様へ： このLaboratoryをリストしたらだめだよ 💔
+
+User-agent: *
+Disallow: /
