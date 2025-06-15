@@ -47,7 +47,8 @@
 	進行中（in oooawe Laboratory）  
 	- Laboratory Menu Barアプリ（codename: Floatie）  
 		↪︎ Coming Soon ...?  
-		↪︎（ Don't ask me "Wen", soon is soon... ）
+		↪︎（ Don't ask me "Wen", soon is soon...）
+			↪︎（ WEB3の "soon" は既に様式美へと昇華してるような）
 
 
 
@@ -56,8 +57,8 @@
 	OOOAWE LABORATORY （ooo@oooawe.jp）  
 		↪︎ Laboratory本体 : https://oooawe.jp  
 		↪︎ プロジェクト公式サイト : https://oooawe.github.io  
-		↪︎（ GitHub Pages Open Source で進行中..."soon" ）  
-			↪︎（ よければ助言やアドバイスお願いいたします ）  
+		↪︎（GitHub Pages で進行中？ "soon"）  
+			↪︎（Open Source → 助言・アドバイスお願いいたします）  
 
 
 
