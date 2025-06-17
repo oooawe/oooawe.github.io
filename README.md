@@ -1,3 +1,12 @@
+
+![electrocat](/docs/assets/soPretty.png)
+  
+➡️ [oooawe Laboratory](https://oooawe.github.io/)  
+
+
+---  
+  
+  
 ## About 
     
     厨二病わずらいポエム...
@@ -42,6 +51,7 @@
 🧩 Vanilla JS
 🛠️ モジュール化とビルドの簡単さ
 ```
+	
     「えっ！？ 今こんなに速くて、便利なの！？」    
     と、驚きまくってしまい──
 
@@ -68,17 +78,16 @@
   
 
 ---  
-  
-    💚 Special Thanks：  
-    
-    素敵な世界観をありがとうございます 
-    
-      💚 Motoko Ghosts  
-	    💚 Dfinity Foundation  
-	    💚 Poked Studio  
-	 
-	カスタマイズも楽しい神アプリをありがとうございます  
-     
-     💚 RunCat app
+	💚 Special Thanks： 	
+ 
+		素敵な世界観をありがとうございます		
+ 
+		💚 Motoko Ghosts  
+		💚 Dfinity Foundation
+		💚 Poked Studio		
+ 
+		カスタマイズも楽しい神アプリをありがとうございます		
+ 
+		💚 RunCat app
 
    
