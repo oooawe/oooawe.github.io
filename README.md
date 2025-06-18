@@ -3,6 +3,11 @@
   
 ➡️ Live Site: [oooawe Laboratory](https://oooawe.github.io/)  
 
+➡️ Read Me (English) : [Motoko Ghosts for RunCat Runner](docs/assets/stash/read-me-eng.txt)  
+➡️ Read Me (Japanese): [Motoko Ghosts for RunCat Runner](docs/assets/stash/read-me-jp.txt)
+
+➡️ license policy : [LICENSE and POLICY ](docs/assets/stash/license.txt)
+
 
 ---  
   
