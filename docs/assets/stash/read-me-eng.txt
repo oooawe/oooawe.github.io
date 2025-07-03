@@ -56,12 +56,9 @@
 	OOOAWE LABORATORY （ooo@oooawe.jp）  
 		↪︎ Project host: https://oooawe.jp  
 		↪︎ Official project page: https://oooawe.github.io  
-			↪︎ GitHub-hosted  
+			↪︎ GitHub-hosted - full source is available  
 
+	☕️ ICP: bbb478d8231770458933159e41aa741ac65ba66f05350217c2abc6637e6a775f
 
-
-➡️ ☕️  
-
-	ICP: bbb478d8231770458933159e41aa741ac65ba66f05350217c2abc6637e6a775f
 
 

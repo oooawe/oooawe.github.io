@@ -25,12 +25,12 @@
 
 ➡️ Special Thanks：
 	
-	素敵な世界観をありがとうございます  
+	素敵な世界観をありがとうございますッ  
 	💚 Motoko Ghosts  
 	💚 Dfinity Foundation  
 	💚 Poked Studio  
 	 
-	カスタマイズも楽しい神アプリをありがとうございます  
+	カスタマイズも楽しい神アプリをありがとうございますッ  
 	💚 RunCat  
 
 
@@ -38,32 +38,27 @@
 ➡️ 今後の展望  
 
 	模索中（外部支援が必要）  
-	- Webアプリ - 所有のMotoko Ghostsアートワークを自動変換  
+	- Webアプリ連携 - 所有Motoko Ghostsアートワークを自動変換  
 		↪︎ やっぱり自分のMotoko Ghostを表示させたいよね  
 		↪︎ ICP上に展開したい  
 		↪︎ SVGから指定サイズのPNG（24-bit）への変換  
 		↪︎ Internet Identity や Wallet 認証など  
 		
-	進行中（in oooawe Laboratory）  
-	- Laboratory Menu Barアプリ（codename: Floatie）  
+	進行中 in oooawe Laboratory  
+	- Laboratory オリジナル Menu Barアプリ（codename: Floatie）  
 		↪︎ Coming Soon ...?  
 		↪︎（ Don't ask me "Wen", soon is soon...）
-			↪︎（ WEB3の "soon" は既に様式美へと昇華してるような）
 
 
 
-➡️ プロジェクト主体  
+➡️ プロジェクト主体
 
 	OOOAWE LABORATORY （ooo@oooawe.jp）  
 		↪︎ Laboratory本体 : https://oooawe.jp  
 		↪︎ プロジェクト公式サイト : https://oooawe.github.io  
-		↪︎（GitHub Pages で進行中？ "soon"）  
-			↪︎（Open Source → 助言・アドバイスお願いいたします）  
+			（GitHub Pages - Open source で進行中です）
 
+	☕️ ICP: bbb478d8231770458933159e41aa741ac65ba66f05350217c2abc6637e6a775f
 
-
-➡️ ☕️  
-
-	ICP: bbb478d8231770458933159e41aa741ac65ba66f05350217c2abc6637e6a775f
 
 
