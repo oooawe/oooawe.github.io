@@ -38,6 +38,15 @@ Super Special Thanks to
 ## 7/03 2025            
 macOSの標準メニューバーに馴染むよう枠罫や大きさを見直し圧縮仕様の調整など行いました         
 
+・既知のサイト不具合（紹介サイトの表示問題）
+- 初期読み込み完了時に配置されるmotoko画像の位置ズレ（ブラウザのDOM計算と配置処理のタイミング問題）
+- PWAとして起動するとページ全体が右にズレる（スクロールバーの幅が無駄に計算されている）
+- JSでappendした要素のanimation終了時（お役目終了）のremove処理が機能せず、動作に問題のない微細なレベルだけどeventListenerの監視とtransitionが無駄に残っている
+
+・Existing Bug on the Site
+- The position of the effect (attached with a CSS transition after the page load) is misaligned horizontally.
+- when launched a PWA too.
+
 <br>
 
 <br>
