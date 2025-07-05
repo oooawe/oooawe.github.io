@@ -2,7 +2,7 @@
  * oooaweLab - entry CSS
  * Minified: Vite v6.3.5 - Lightning
  * Target: safari13.1, chrome80, firefox75, edge80
- * Build, Refactored: 07-01-2025
+ * Build, Refactored: 07-05-2025
 */
 
 /*! ======= 🛠️ Custom Properties > */:root{--viewport-height: 1vh;--docment-height:calc(var(--viewport-height) * 100);--space-base: 1rem;--radius-base: 1rem;--color-base: 15,15,15;--transition-base: 1.2s;--panel-size: 16px;--panel-gap: 1px;--item-height: calc(var(--space-base) * 2.2);--panel-bg: rgb(15,15,15);--panel-outline: rgb(0,80,40);--phosphor-color: rgb(0,200,100);--pointer-color: rgb(0,200,100);--pointer-radius: 3;--pointer-intensity: 1;--pointer-duration-in: .5s;--pointer-duration-out: 1.5s;--typo-duration: 2.7s;--exp-duration: 4s;--text-bright: rgb(180, 195,195);--text-light: rgb(200, 200, 200);--text-lighter: rgb(225, 225, 225);--text-lightest: rgb(235, 255, 255);--accent-black: black;--accent-pink: pink;--accent-hot: hotpink;--accent-deep: deeppink;--accent-pale: palevioletred;--font-base: "Fredoka v16", system-ui, sans-serif;--font-sign: "Kumar One", system-ui, sans-serif;--font-heading: "Fredoka One", system-ui, sans-serif;--safe-top: env(safe-area-inset-top);--safe-btm: env(safe-area-inset-bottom);--debug-line-cn: 1px dotted hotpink;--debug-line-el: 1px dotted rgb(135, 206, 235)}
