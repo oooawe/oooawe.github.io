@@ -92,6 +92,6 @@
 <br>
 
 	Made with 💚 for fun and fandom.
-  Thank you.
+ 	Thank you.
 
 
